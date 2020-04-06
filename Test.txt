@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 Version 3
 
 geändert
 jesus
+=======
+Version 2
+
+geändert
+nigger
+kjhfkjl
+dfkjdf
+hallo
+
+>>>>>>> Version2
