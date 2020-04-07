@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Version 3
+
+geändert
+jesus
+=======
 Version 2
 
 geändert
@@ -6,3 +12,4 @@ kjhfkjl
 dfkjdf
 hallo
 
+>>>>>>> Version2
